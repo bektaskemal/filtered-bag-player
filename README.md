@@ -2,6 +2,8 @@
 
 Simple GUI tool for filtering ROS 2 bags around a trigger topic.
 
+![Demo](img/demo.gif)
+
 It lets you:
 - find when a topic was published
 - keep a few seconds before and after each event
